@@ -49,5 +49,3 @@ for filepath in list_of_files:
     
     else:
         logging.info(f"{filename} is already exists")
-
-print("Hello, this is a test.")
